@@ -41,7 +41,6 @@ A Python script for scraping real estate listings from Homes.com.
    ```
    Beverly Hills, CA
    Malibu, CA
-   Los Angeles, CA/Bel Air
    ```
 3. Run the script:
    ```bash

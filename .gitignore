@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+scraper.log
+
+# Output files
+output.json
+*.json
+
+# Environment
+.env
+venv/
+env/
+ENV/
+
+# Editor configs
+.vscode/
+.idea/ 
